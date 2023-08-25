@@ -1,0 +1,7 @@
+@import url("<ZORIN_THEMES_PATH>/<THEME_NAME>/gtk-3.0/gtk.css");
+
+
+/* Fix padding */
+decoration {
+	box-shadow: none;
+}

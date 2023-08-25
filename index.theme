@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Bspwm<THEME_NAME>
+Comment=A modification of <THEME_NAME> theme. Made to improve compatibility with BSPWM window manager.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Bspwm<THEME_NAME>
+MetacityTheme=Bspwm<THEME_NAME>
+IconTheme=<THEME_NAME>
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
